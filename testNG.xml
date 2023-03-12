@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ThuyBui_Assignment">
+    <test name="Integration Test">
+        <packages>
+            <package name="tests"/>
+        </packages>
+    </test>
+</suite>
